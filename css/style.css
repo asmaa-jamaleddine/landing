@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora&family=Playfair+Display&display=swap");
+
+@import url("components/container.css");
+@import url("components/creator.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body  {
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
+}
+h1, h2, h3 {
+    font-family: 'Lora', serif;
+    font-weight: bold; 
+    color: #ea5c2b;
+}
+a  {
+text-decoration: none;
+
+}
+
+
+
+
